@@ -1,0 +1,28 @@
+.color{
+    color: rgb(0, 0, 0);
+    margin-left: 450px;
+    font-size: 50px;
+}
+
+#don{
+    padding: 10px;
+    background-color:rgba(0, 247, 255, 0.634);
+    color: #ff0303;
+    border-color: rgb(173, 0, 221);
+    margin-left: 450px;
+}
+#ching{
+    color: #4c00ff;
+    margin-left: 450px;
+}
+#on{
+    margin-left: 450px;  
+    color: rgb(255, 0, 0);
+}
+.ppp{
+    margin-left: 450px;
+}
+#toof{
+    height: 190px;
+    width: 150px;
+}
